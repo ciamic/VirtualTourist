@@ -14,7 +14,10 @@ The purpose of the project is to learn how to use Core Data to persist applicati
 In particular:  
 - a persistent context, in order to persist data on a background queue
 - a main context, whose purpose is to display data in the main queue (child of the persistent context)
-- a background context, to execute background tasks on a background queue (child of the main context)
+- a background context, to execute background tasks on a background queue (child of the main context)  
+  
+[![Simulator Screen Shot 30 May 2017, 23.33.25.png](https://s18.postimg.org/n8vl677cp/Simulator_Screen_Shot_30_May_2017_23.33.25.png)](https://postimg.org/image/bwizoeynp/)
+[![Simulator Screen Shot 30 May 2017, 23.33.41.png](https://s12.postimg.org/k53fqpyb1/Simulator_Screen_Shot_30_May_2017_23.34.41.png)](https://postimg.org/image/bwizoeynp/)
 
 ## Requirements
 - iOS 9.0+
