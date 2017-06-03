@@ -6,7 +6,7 @@
 [![Platform][platform-image]][platform-url]
 [![PRs Welcome][prswelcome-image]][prswelcome-url]
 
-VirtualTourist is an app developed as part of the [Udacity iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree-nd003), in particular is the result of the [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data-ud325) course.  
+VirtualTourist is an app developed as part of the [Udacity iOS Developer Nanodegree](https://www.udacity.com/course/ios-developer-nanodegree--nd003), in particular is the result of the [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325) course.  
   
 Users can "visit" any place they want by dropping pins on the map in order to show photos taken near the locations (downloaded from Flickr).    
   
