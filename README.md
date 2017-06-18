@@ -10,7 +10,7 @@ VirtualTourist is an app developed as part of the [Udacity iOS Developer Nanodeg
   
 Users can "visit" any place they want by dropping pins on the map in order to show photos taken near the locations (downloaded from Flickr).    
   
-The purpose of the project is to learn how to use Core Data to persist application data with the use of different contexts which serves different purpses.  
+The purpose of the project is to learn how to use Core Data to persist application data with the use of different contexts which serves different purposes.  
 In particular:  
 - a persistent context, in order to persist data on a background queue
 - a main context, whose purpose is to display data in the main queue (child of the persistent context)
